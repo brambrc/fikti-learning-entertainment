@@ -1,0 +1,932 @@
+
+
+/*================ Normal desktop :992px.==================== */
+
+@media (min-width: 992px) and (max-width: 1169px) {
+	.mainmenu ul>li>a {
+		padding: 30px 4px
+	}
+	.top-movie-slider .owl-nav {
+		display: block !important;
+		position: absolute;
+		top: -45px;
+		right: 0;
+	}
+	.top-movie-slider .owl-nav>button {
+		color: #ec7532 !important;
+		width: 30px;
+		height: 30px;
+		border: 1px solid #ddd !important;
+		margin: 0 3px;
+		font-size: 17px !important;
+	}
+	.apps-list li {
+		float: none
+	}
+	.single-movie-list {
+		display: block
+	}
+	.single-movie-list-left {
+		margin-right: 10px;
+		float: left;
+	}
+	.single-movie-list-right {
+		overflow: hidden;
+		padding: 10px;
+	}
+	.mainmenu ul li ul li>ul.submenu {
+		min-width: 160px
+	}
+	.movie-grid-layout .single-movie-list-right .movie-list-info {
+		display: block
+	}
+	.movie-list-info .top-action {
+		display: block;
+		margin-top: 10px
+	}
+	.cast-slider {
+		margin-bottom: 0
+	}
+	.cast-slider .owl-nav {
+		text-align: center;
+		margin-top: 20px;
+	}
+	.cast-slider .owl-nav>button {
+		color: #ec7532 !important;
+		width: 30px;
+		height: 30px;
+		border: 1px solid #ddd !important;
+		margin: 0 3px;
+		font-size: 17px;
+	}
+	.features_title h3 {
+		font-size: 19px
+	}
+	.movie-list-info {
+		margin-top: 0
+	}
+	.single-movie-list-right h3 {
+		margin-bottom: 0
+	}
+	.movie-details-thumbs {
+		margin-top: 5px
+	}
+}
+
+
+/*================ Tablet desktop :768px.==================*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.site-logo {
+		width: 30%
+	}
+	.header-main-search.hide-mobile {
+		display: none
+	}
+	.mainmenu {
+		display: none
+	}
+	.filmoja-responsive-menu {
+		display: block;
+		top: 27px
+	}
+	.hide-desktop {
+		display: block;
+		margin: 20px
+	}
+	.top-movie-slider .owl-nav {
+		display: block !important;
+		position: absolute;
+		top: -45px;
+		right: 0;
+	}
+	.top-movie-slider .owl-nav>button {
+		color: #ec7532 !important;
+		width: 30px;
+		height: 30px;
+		border: 1px solid #ddd !important;
+		margin: 0 3px;
+		font-size: 17px !important;
+	}
+	.top-movie-slider .owl-nav>button:last-child {
+		margin-right: 0
+	}
+	.movie-details-thumbs ul li {
+		width: auto;
+		margin-right: 15px;
+	}
+	.quote-box {
+		width: 100%
+	}
+	.auth-box-left .login-box .row:first-child .col-lg-6:first-child {
+		margin-bottom: 20px !important
+	}
+	.filmoja-news-area .single-news-item {
+		width: 75%;
+		margin: 30px auto 0;
+	}
+	.filmoja-blog-page .single-news-item,
+	.filmoja-blog-page .pagination-box-row {
+		width: 75%;
+		margin: 0 auto 30px;
+	}
+	.filmoja-movie-list-area .list-sidebar,
+	.browse-option-box {
+		width: 75%;
+		margin: 0 auto;
+	}
+	.filmoja-news-area .news-side-list,
+	.filmoja-blog-page .list-sidebar {
+		width: 75%;
+		margin: 30px auto 0;
+	}
+	.tablet-view .sidebar-top-movie-left {
+		float: left;
+		margin-right: 20px;
+	}
+	.news-side-text h4 {
+		font-size: 20px
+	}
+	.filmoja-tv-movies-area .filmoja-heading,
+	.filmoja-news-area .filmoja-heading,
+	.filmoja-feature-area .filmoja-heading,
+	.filmoja-partner-area .filmoja-heading {
+		text-align: center;
+	}
+	.filmoja-tv-movies-area .filmoja-heading h2,
+	.filmoja-news-area .filmoja-heading h2,
+	.filmoja-feature-area .filmoja-heading h2,
+	.filmoja-partner-area .filmoja-heading h2 {
+		display: inline-block;
+	}
+	.filmoja-tv-movies-area .tv-tab #pills-tab {
+		text-align: center;
+		display: block;
+	}
+	.filmoja-tv-movies-area .tv-tab ul li.nav-item {
+		display: inline-block;
+	}
+	.single-footer-widget {
+		margin: 15px 0
+	}
+	.about-slider .owl-nav>button.owl-next {
+		right: -50px
+	}
+	.about-slider .owl-nav>button.owl-prev {
+		left: -50px
+	}
+	.cast-slider {
+		margin-bottom: 0
+	}
+	.cast-slider .owl-nav {
+		text-align: center;
+		margin-top: 20px;
+	}
+	.cast-slider .owl-nav>button {
+		color: #ec7532 !important;
+		width: 30px;
+		height: 30px;
+		border: 1px solid #ddd !important;
+		margin: 0 3px;
+		font-size: 17px;
+	}
+	.features_title h3 {
+		font-size: 19px
+	}
+	.about-page-text {
+		width: 80%
+	}
+	.contact-box-left,
+	.contact-box-right {
+		width: 75%;
+		margin: 0 auto;
+	}
+	section.filmoja-movie-details-page.celebrity-details-page.section_70 {
+		padding-top: 70px
+	}
+	.tv-series-page .browse-option-box {
+		width: 100%
+	}
+	.features_box {
+		background: transparent none repeat scroll 0 0;
+		margin-top: 0
+	}
+	.features_box ul.features_box_list>li {
+		float: none;
+		width: 75%;
+		display: block;
+		margin: 0 auto;
+	}
+	.features_box ul.features_box_list>li .inner {
+		width: 100%;
+		margin: 30px auto 0;
+		display: block;
+	}
+	.features_box ul.features_box_list>li .inner:before {
+		display: none
+	}
+	.pricing-heading {
+		width: 90%
+	}
+	.pricing-heading h3 {
+		font-size: 22px
+	}
+	.single-pricing-box {
+		width: 65%;
+		margin: 30px auto 0;
+	}
+	.margin-top {
+		margin-top: 50px
+	}
+	.leave-comment textarea {
+		width: 95%
+	}
+	.login-box {
+		width: 100%;
+		margin: 30px auto 0;
+		height: auto;
+	}
+	.auth-box-right,
+	.auth-box-left {
+		width: 75%;
+		margin: 0 auto;
+	}
+	.auth-box-left {
+		margin-top: 30px
+	}
+	.movie-list-box .single-movie-list {
+		display: block
+	}
+	.single-movie-list-right {
+		padding: 20px 20px 0 20px
+	}
+	.single-movie-list .top-action {
+		padding: 20px
+	}
+	.single-movie-list-left {
+		margin-right: 0
+	}
+	.single-movie-list-left img {
+		width: 100%;
+	}
+	.movie-list-box,
+	.movie-grid-box {
+		width: 75%;
+		margin: 0 auto;
+	}
+	.filmoja-movie-list-area .pagination-box-row {
+		margin-top: 0px !important
+	}
+	.details-banner-action {
+		display: none
+	}
+	.details-banner-info h3 span {
+		top: 0;
+		right: -25px
+	}
+	a.filmoja-btn.tablet-action {
+		display: inline-block;
+		margin-top: 20px;
+	}
+	section.filmoja-movie-details-page.section_70 {
+		padding-top: 130px;
+	}
+	.movie-details-page-box>ul>li>span {
+		width: 22%
+	}
+}
+
+
+/*================== small mobile :320px. ===================*/
+
+@media (max-width: 767px) {
+	.header-top-social {
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.header-top-menu ul {
+		text-align: center;
+	}
+	.header-top-menu ul li:first-child {
+		display: none
+	}
+	.site-logo {
+		width: 50%;
+		margin: 20px 0
+	}
+	.header-main-search.hide-mobile {
+		display: none
+	}
+	.mainmenu {
+		display: none
+	}
+	.filmoja-responsive-menu {
+		display: block
+	}
+	.hide-desktop {
+		display: block;
+		margin: 25px 20px
+	}
+	.filmoja-slide:after {
+		display: none
+	}
+	.filmoja-slide:before {
+		display: none
+	}
+	.filmoja-main-slide {
+		height: 450px
+	}
+	.slider-text h2 {
+		font-size: 30px;
+		letter-spacing: 0
+	}
+	.filmoja-heading h2 {
+		font-size: 26px;
+		padding-left: 0
+	}
+	.filmoja-heading h2:before {
+		display: none
+	}
+	.filmoja-heading h2:after {
+		display: none
+	}
+	.top-movie-slider .owl-nav {
+		text-align: center;
+		margin-top: 20px;
+	}
+	.top-movie-slider .owl-nav>button {
+		color: #ec7532 !important;
+		width: 30px;
+		height: 30px;
+		border: 1px solid #ddd !important;
+		margin: 0 3px;
+		font-size: 17px;
+	}
+	.top-movie-details {
+		text-align: center
+	}
+	.movie-details-thumbs ul li {
+		width: auto;
+		margin-right: 10px
+	}
+	.top-movie-slider .single-top-movie {
+		margin-top: 20px;
+	}
+	.filmoja-theater-area:after {
+		width: 100%
+	}
+	.filmoja-theater-area:before {
+		width: 100%
+	}
+	.theater-text {
+		text-align: center;
+		margin-bottom: 30px
+	}
+	.theater-text h3 {
+		font-size: 27px
+	}
+	.theater-text p {
+		text-align: center
+	}
+	.tv-tab #pills-tab {
+		display: block;
+	}
+	.tv-tab ul li.nav-item {
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.tv-tab .nav-pills .nav-link.active,
+	.nav-pills .show>.nav-link,
+	.nav-pills .nav-link {
+		display: inline-block
+	}
+	.quote-box {
+		width: 100%
+	}
+	.quote-box h3 {
+		font-size: 30px;
+		letter-spacing: 0
+	}
+	.quote-box form {
+		width: 100%
+	}
+	.news-text>h3 {
+		font-size: 18px
+	}
+	.post-meta {
+		margin: 15px 0
+	}
+	.news-side-list {
+		margin-top: 30px
+	}
+	.single-news-item {
+		margin-top: 30px
+	}
+	.news-side-text {
+		padding: 20px
+	}
+	.single-footer-widget {
+		margin: 15px 0
+	}
+	.breadcrumb-box h2 {
+		font-size: 30px
+	}
+	.about-slider {
+		width: 100%
+	}
+	.about-slider .owl-nav>button.owl-next {
+		right: 2%;
+		top: 37%
+	}
+	.about-slider .owl-nav>button.owl-prev {
+		left: 2%;
+		top: 37%
+	}
+	.about-page-text {
+		width: 100%
+	}
+	.auth-box-left .login-box .row:first-child .col-lg-6:first-child {
+		margin-bottom: 15px !important;
+	}
+	.about-page-text h3 {
+		font-size: 30px
+	}
+	.features_box {
+		background-color: #fff;
+		margin-top: 0
+	}
+	.features_title h3 {
+		font-size: 19px
+	}
+	.features_box ul.features_box_list>li {
+		width: 100%;
+		margin-top: 30px
+	}
+	.features_box ul.features_box_list>li .inner {
+		padding: 30px
+	}
+	.features_box ul.features_box_list>li .inner:before {
+		display: none
+	}
+	.pricing-heading {
+		width: 100%
+	}
+	.pricing-heading h3 {
+		font-size: 20px;
+		line-height: normal
+	}
+	.filmoja-blog-page.section_70 {
+		padding-top: 40px;
+	}
+	.blog-page-list .single-news-item:last-child {
+		margin-bottom: 30px
+	}
+	.filmoja-blog-page .pagination {
+		margin-top: 30px;
+	}
+	.margin-top {
+		margin-top: 50px
+	}
+	.post-content blockquote .quote-inner {
+		margin-left: 15px;
+		padding-left: 35px
+	}
+	.post-content blockquote .quote-text {
+		font-size: 16px
+	}
+	.main-comment {
+		padding: 30px 0px 10px 0px;
+	}
+	.candidate-image {
+		position: relative;
+		top: 0;
+	}
+	.single-comment-history.reply-commnt {
+		padding-left: 30px
+	}
+	.leave-comment input[type="text"],
+	.leave-comment input[type="email"] {
+		width: 100%;
+		margin-right: 0
+	}
+	.leave-comment textarea {
+		width: 100%
+	}
+	.login-box {
+		height: auto
+	}
+	.notfound-box h1 {
+		font-size: 80px
+	}
+	.notfound-box h3 {
+		font-size: 18px;
+		line-height: normal
+	}
+	.notfound-box form {
+		width: 100%
+	}
+	.browse-option-box,
+	.total-item-show {
+		display: block
+	}
+	.sorter p {
+		display: inline-block
+	}
+	.sorter {
+		margin-top: 15px
+	}
+	.movie-list-box .single-movie-list {
+		display: block;
+		margin-right: 0
+	}
+	.single-movie-list-right {
+		padding: 20px 20px 0 20px
+	}
+	.movie-list-box .single-movie-list .top-action {
+		padding: 20px
+	}
+	.single-movie-list-left {
+		margin-right: 0
+	}
+	.responsive-pag .pagination {
+		margin-top: 15px;
+	}
+	.movie-grid-layout .single-movie-list-right .movie-list-info {
+		display: block
+	}
+	.movie-list-info .top-action {
+		display: block;
+		margin-top: 15px
+	}
+	.details-banner-thumb img {
+		position: relative;
+		width: 100%
+	}
+	.details-banner-info {
+		margin-top: 30px
+	}
+	.details-banner-action {
+		text-align: left;
+		margin: 20px 0 0 0
+	}
+	.movie-details-page-box>ul>li>span {
+		width: 40%
+	}
+	.cast-slider {
+		margin-bottom: 0
+	}
+	.cast-slider .owl-nav {
+		text-align: center;
+		margin-top: 20px;
+	}
+	.cast-slider .owl-nav>button {
+		color: #ec7532 !important;
+		width: 30px;
+		height: 30px;
+		border: 1px solid #ddd !important;
+		margin: 0 3px;
+		font-size: 17px;
+	}
+	.reviews-rating {
+		right: 0
+	}
+	.reviews .form {
+		width: 100%
+	}
+	.celebrity-page {
+		padding-top: 40px
+	}
+	.no-margin-top .single-top-movie {
+		margin-top: 30px
+	}
+	.support-box {
+		padding: 20px
+	}
+	.support-icon {
+		font-size: 40px
+	}
+	.support-text h3 {
+		font-size: 18px
+	}
+}
+
+
+/* ======================Large Mobile :480px.================== */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.header-top-social {
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.header-top-menu ul {
+		text-align: right;
+	}
+	.header-top-menu ul li:first-child {
+		display: none
+	}
+	.site-logo {
+		width: 40%;
+		margin: 20px 0
+	}
+	.apps-list li {
+		float: none
+	}
+	.header-main-search.hide-mobile {
+		display: none
+	}
+	.mainmenu {
+		display: none
+	}
+	.filmoja-responsive-menu {
+		display: block;
+		top: 22px
+	}
+	.hide-desktop {
+		display: block;
+		margin: 25px 20px
+	}
+	.filmoja-slide:after {
+		display: none
+	}
+	.filmoja-slide:before {
+		display: none
+	}
+	.filmoja-main-slide {
+		height: 450px
+	}
+	.slider-text h2 {
+		font-size: 35px;
+		letter-spacing: 1px
+	}
+	.filmoja-heading h2 {
+		font-size: 28px;
+		padding-left: 0
+	}
+	.filmoja-heading h2:before {
+		display: none
+	}
+	.filmoja-heading h2:after {
+		display: none
+	}
+	.top-movie-slider .owl-nav {
+		text-align: center;
+		margin-top: 20px;
+	}
+	.top-movie-slider .owl-nav>button {
+		color: #ec7532 !important;
+		width: 30px;
+		height: 30px;
+		border: 1px solid #ddd !important;
+		margin: 0 3px;
+		font-size: 17px;
+	}
+	.top-movie-details {
+		text-align: center
+	}
+	.movie-details-thumbs ul li {
+		width: auto;
+		margin-right: 10px
+	}
+	.top-movie-slider .single-top-movie {
+		margin-top: 20px;
+	}
+	.filmoja-theater-area:after {
+		width: 100%
+	}
+	.filmoja-theater-area:before {
+		width: 100%
+	}
+	.theater-text {
+		text-align: center;
+		margin-bottom: 30px
+	}
+	.theater-text h3 {
+		font-size: 27px
+	}
+	.theater-text p {
+		text-align: center
+	}
+	.tv-tab #pills-tab {
+		display: block;
+	}
+	.tv-tab ul li.nav-item {
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.tv-tab .nav-pills .nav-link.active,
+	.nav-pills .show>.nav-link,
+	.nav-pills .nav-link {
+		display: inline-block
+	}
+	.quote-box {
+		width: 100%
+	}
+	.quote-box h3 {
+		font-size: 30px;
+		letter-spacing: 0
+	}
+	.quote-box form {
+		width: 100%
+	}
+	.news-text>h3 {
+		font-size: 18px
+	}
+	.post-meta {
+		margin: 15px 0
+	}
+	.news-side-list {
+		margin-top: 30px
+	}
+	.single-news-item {
+		margin-top: 30px
+	}
+	.news-side-text {
+		padding: 20px
+	}
+	.single-footer-widget {
+		margin: 15px 0
+	}
+	.breadcrumb-box h2 {
+		font-size: 30px
+	}
+	.about-slider {
+		width: 100%
+	}
+	.about-slider .owl-nav>button.owl-next {
+		right: 2%;
+		top: 37%
+	}
+	.celebrity-page {
+		padding-top: 40px
+	}
+	.about-slider .owl-nav>button.owl-prev {
+		left: 2%;
+		top: 37%
+	}
+	.about-page-text {
+		width: 100%
+	}
+	.about-page-text h3 {
+		font-size: 30px
+	}
+	.features_box {
+		background-color: #fff;
+	}
+	.features_box ul.features_box_list>li {
+		width: 100%;
+		margin-top: 30px
+	}
+	.features_box ul.features_box_list>li .inner {
+		padding: 30px
+	}
+	.features_box ul.features_box_list>li .inner:before {
+		display: none
+	}
+	.pricing-heading {
+		width: 100%
+	}
+	.pricing-heading h3 {
+		font-size: 20px;
+		line-height: normal
+	}
+	.filmoja-blog-page.section_70 {
+		padding-top: 40px;
+	}
+	.blog-page-list .single-news-item:last-child {
+		margin-bottom: 30px
+	}
+	.filmoja-blog-page .pagination {
+		margin-top: 30px;
+	}
+	.margin-top {
+		margin-top: 50px
+	}
+	.post-content blockquote .quote-inner {
+		margin-left: 15px;
+		padding-left: 35px
+	}
+	.post-content blockquote .quote-text {
+		font-size: 16px
+	}
+	.main-comment {
+		padding: 30px 0px 10px 0px;
+	}
+	.candidate-image {
+		position: relative;
+		top: 0;
+	}
+	.single-comment-history.reply-commnt {
+		padding-left: 30px
+	}
+	.leave-comment input[type="text"],
+	.leave-comment input[type="email"] {
+		width: 100%;
+		margin-right: 0
+	}
+	.leave-comment textarea {
+		width: 100%
+	}
+	.login-box {
+		height: auto
+	}
+	.notfound-box h1 {
+		font-size: 80px
+	}
+	.notfound-box h3 {
+		font-size: 18px;
+		line-height: normal
+	}
+	.notfound-box form {
+		width: 100%
+	}
+	.browse-option-box,
+	.total-item-show {
+		display: block
+	}
+	.sorter p {
+		display: inline-block
+	}
+	.sorter {
+		margin-top: 15px
+	}
+	.movie-list-box .single-movie-list {
+		display: block;
+		margin-right: 0
+	}
+	.single-movie-list-right {
+		padding: 20px 20px 0 20px
+	}
+	.movie-list-box .single-movie-list .top-action {
+		padding: 20px
+	}
+	.single-movie-list-left {
+		margin-right: 0
+	}
+	.responsive-pag .pagination {
+		margin-top: 15px;
+	}
+	.movie-grid-layout .single-movie-list-right .movie-list-info {
+		display: block
+	}
+	.movie-list-info .top-action {
+		display: block;
+		margin-top: 15px
+	}
+	.details-banner-thumb img {
+		position: relative;
+		width: 100%
+	}
+	.details-banner-info {
+		margin-top: 30px
+	}
+	.details-banner-action {
+		text-align: left;
+		margin: 20px 0 0 0
+	}
+	.movie-details-page-box>ul>li>span {
+		width: 40%
+	}
+	.cast-slider {
+		margin-bottom: 0
+	}
+	.cast-slider .owl-nav {
+		text-align: center;
+		margin-top: 20px;
+	}
+	.cast-slider .owl-nav>button {
+		color: #ec7532 !important;
+		width: 30px;
+		height: 30px;
+		border: 1px solid #ddd !important;
+		margin: 0 3px;
+		font-size: 17px;
+	}
+	.reviews-rating {
+		right: 0
+	}
+	.reviews .form {
+		width: 100%
+	}
+	.no-margin-top .single-top-movie {
+		margin-top: 30px
+	}
+	.support-box {
+		padding: 20px
+	}
+	.support-icon {
+		font-size: 40px
+	}
+	.support-text h3 {
+		font-size: 18px
+	}
+	.auth-box-left .login-box .row:first-child .col-lg-6:first-child {
+		margin-bottom: 15px !important
+	}
+	.header-top-social {
+		margin-bottom: 0
+	}
+	.features_title h3 {
+		font-size: 19px
+	}
+}
+

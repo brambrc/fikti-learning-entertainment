@@ -1,0 +1,14 @@
+      <!--Jquery js-->
+      <script src="{{asset('entertainment')}}/assets/js/jquery-3.0.0.min.js"></script>
+      <!--Jquery-ui js-->
+      <script src="{{asset('entertainment')}}/assets/js/jquery-ui.min.js"></script>
+      <!--Bootstrap js-->
+      <script src="{{asset('entertainment')}}/assets/js/bootstrap.min.js"></script>
+      <!--Owl-Carousel js-->
+      <script src="{{asset('entertainment')}}/assets/js/owl.carousel.min.js"></script>
+      <!--SlickNav js-->
+      <script src="{{asset('entertainment')}}/assets/js/jquery.slicknav.min.js"></script>
+      <!--Magnific js-->
+      <script src="{{asset('entertainment')}}/assets/js/jquery.magnific-popup.min.js"></script>
+      <!--Main js-->
+      <script src="{{asset('entertainment')}}/assets/js/main.js"></script>
